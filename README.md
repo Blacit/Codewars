@@ -1,2 +1,2 @@
 # Codewars
-My profile: https://www.codewars.com/users/Blacit
+My profile: [Blacit](https://www.codewars.com/users/Blacit)
